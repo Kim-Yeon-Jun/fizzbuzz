@@ -1,4 +1,5 @@
- def fibo(num):
+from math import sqrt
+def fibo(num):
 
 #   if num < 2 :
 #       return num
